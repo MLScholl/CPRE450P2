@@ -1,0 +1,7 @@
+module AuctionApp
+{
+	interface Auction
+	{
+		string sayHello();
+	};
+};
